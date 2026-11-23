@@ -27,7 +27,12 @@ body {
 }
 
 nav{
+    width: 500px;
+    height: 40px;
     display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
 }
 
 .retangulo1{
@@ -36,7 +41,24 @@ nav{
     background-color: #FCDE56;
     text-align: center;
 }
-
+.retangulo2{
+    width: 92px;
+    height: 39px;
+    background-color: #FCDE56;
+    text-align: center;
+}
+.retangulo3{
+    width: 92px;
+    height: 39px;
+    background-color: #FCDE56;
+    text-align: center;
+}
+.retangulo4{
+    width: 92px;
+    height: 39px;
+    background-color: #FCDE56;
+    text-align: center;
+}
 .button{
     width: 193px;
     height: 34px;
@@ -62,6 +84,9 @@ nav{
     width: 377px;
     height: 378px;
     background-color: #FCDE56;
+    align-items: center;
+    display: flex;
+    justify-content: center;
 }
 .cv{
     display: flex;
