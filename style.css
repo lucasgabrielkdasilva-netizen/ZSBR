@@ -26,6 +26,10 @@ body {
     text-align: center;
 }
 
+nav{
+    display: flex;
+}
+
 .retangulo1{
     width: 92px;
     height: 39px;
