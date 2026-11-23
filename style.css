@@ -23,12 +23,44 @@ body {
     border-radius: 50%;
     background-color: #FDDE55;
     margin-right: 400px;
+    text-align: center;
 }
-.rspa{
+
+nav{
+    width: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.retangulo1{
     width: 92px;
     height: 39px;
     background-color: #FCDE56;
+    text-align: center;
 }
+
+.retangulo4{
+    width: 92px;
+    height: 39px;
+    background-color: #FCDE56;
+    text-align: center;
+}
+
+.retangulo2{
+    width: 92px;
+    height: 39px;
+    background-color: #FCDE56;
+    text-align: center;
+}
+.retangulo3{
+    width: 92px;
+    height: 39px;
+    background-color: #FCDE56;
+    text-align: center;
+}
+
 .button{
     width: 193px;
     height: 34px;
